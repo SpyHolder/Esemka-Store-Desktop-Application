@@ -1,0 +1,36 @@
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\bin\Debug\EsemkaStore2.exe.config
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\bin\Debug\EsemkaStore2.exe
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\bin\Debug\EsemkaStore2.pdb
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.Properties.Resources.resources
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.exe
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.pdb
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\bin\Debug\Guna.UI2.dll
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.MenuUtama.resources
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.CopyComplete
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.Login.resources
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.ManageProduct.resources
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.ManageUser.resources
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.ViewTransaction.resources
+C:\Users\HP\source\repos\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.AddTransaction.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\bin\Debug\EsemkaStore2.exe.config
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\bin\Debug\EsemkaStore2.exe
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\bin\Debug\EsemkaStore2.pdb
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\bin\Debug\Guna.UI2.dll
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.AssemblyReference.cache
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.SuggestedBindingRedirects.cache
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.Login.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.ManageProduct.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.AddTransaction.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.ManageUser.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.MenuUtama.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.Properties.Resources.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.ViewTransaction.resources
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.GenerateResource.cache
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.CoreCompileInputs.cache
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.csproj.CopyComplete
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.exe
+D:\IKHSAN\PROJECT\VISUAL STUDIO C# PROJECT\EsemkaStore2\EsemkaStore2\obj\Debug\EsemkaStore2.pdb
